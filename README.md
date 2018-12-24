@@ -2,6 +2,8 @@
 ### A Blog Site
 ```
 Learn Along as Molly Tells Life Advice & Mis-haps
+Front-end developed utilizing Vue.js
+Back-end soon to be developed utilizing C#
 ```
 
 ## Project setup
