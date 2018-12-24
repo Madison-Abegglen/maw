@@ -3,7 +3,7 @@
 ```
 Learn Along as Molly Tells Life Advice & Mis-haps
 Front-end developed utilizing Vue.js
-Back-end soon to be developed utilizing C#
+Back-end soon to be developed utilizing C#, SQL, & MongoDB
 ```
 
 ## Project setup
