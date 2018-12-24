@@ -1,4 +1,8 @@
-# maw
+# MAW: Molly's Always Wrong
+### A Blog Site
+```
+Learn Along as Molly Tells Life Advice & Mis-haps
+```
 
 ## Project setup
 ```
